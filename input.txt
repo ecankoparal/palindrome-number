@@ -1,0 +1,8 @@
+121
+True
+-121
+False
+10
+False
+9876556789
+True
