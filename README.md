@@ -1,4 +1,4 @@
-Leetcode two sum O(n) python solution.
+Leetcode palindrome number O(n) python solution.
 
 input.txt format:
 
